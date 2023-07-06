@@ -1,0 +1,36 @@
+@media screen and (max-width:800px) {
+    
+    :root{
+        font-size: 55%;
+
+    }
+
+    
+}
+
+@media screen and (max-width:650px) {
+    
+    :root{
+        font-size: 45%;
+
+    }
+    .timer{
+        left:50%;
+    }
+
+    
+}
+
+@media screen and (max-width:500px) {
+    
+    :root{
+        font-size: 40%;
+
+    }
+
+    .timer{
+        left:52%;
+    }
+
+    
+}
